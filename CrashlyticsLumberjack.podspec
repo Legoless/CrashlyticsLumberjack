@@ -14,6 +14,6 @@ Pod::Spec.new do |s|
   s.osx.deployment_target = '10.7'
   s.ios.deployment_target = '5.0'
 
-  s.dependency 'CocoaLumberjack/Core', '=2.0.0-rc2'
+  s.dependency 'CocoaLumberjack/Core', '=2.0'
 
 end
